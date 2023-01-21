@@ -4,4 +4,4 @@
 
 <br>
 
-**Live Preview - https://vigneshwaranwhithub.io/Clock/**
+**Live Preview - https://vigneshwaranwh.github.io/Clock/**
